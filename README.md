@@ -31,6 +31,7 @@ Passionate **AI & Computer Vision Engineer** with hands-on expertise in building
 
 | Project & Repository | Description | Key Tech Stack |
 | :--- | :--- | :--- |
+| 🤖 [**Agentic-AI-DeepLearning.AI**](https://github.com/Eng-Ahmed-Rifai/Agentic-AI-DeepLearning.AI) | Autonomous multi-agent workflows, reflective LLM pipelines, arXiv/Tavily tool-calling, and verified DeepLearning.AI credential. | `Python` `OpenAI` `aisuite` `Tool Calling` |
 | 👁️ [**deep-learning-cv-platform**](https://github.com/Eng-Ahmed-Rifai/deep-learning-cv-platform) | Deep Learning & Computer Vision platform featuring PyTorch CNNs, object detection IoU metrics, and NLP sentiment classifiers. | `Python` `PyTorch` `TensorFlow` `OpenCV` |
 | 🎓 [**IBM-AI-Engineering-Cert**](https://github.com/Eng-Ahmed-Rifai/IBM-AI-Engineering-Professional-Certificate) | Complete deep learning models, capstone computer vision pipelines, and neural network architectures across 6 IBM modules. | `PyTorch` `TensorFlow` `Keras` `OpenCV` |
 | 🐤 [**NLP-X-Sentiment-Analysis**](https://github.com/Eng-Ahmed-Rifai/NLP-X.com-Sentiment-Analysis) | End-to-end NLP pipeline preprocessing and classifying social media tweet sentiments using TF-IDF & ML classifiers. | `Python` `NLTK` `Scikit-Learn` `Pandas` |
